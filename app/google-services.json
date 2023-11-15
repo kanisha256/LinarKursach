@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635983321256",
+    "project_id": "stud23-8d779",
+    "storage_bucket": "stud23-8d779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635983321256:android:06b58b39582c12ae774a9d",
+        "android_client_info": {
+          "package_name": "com.example.linarkursach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltPW4V6_y-qogvFwRdd88j7rJQkE0caY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
